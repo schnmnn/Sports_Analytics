@@ -101,6 +101,8 @@ all_10k_values = [i for i in all_10k if i != None]
 fastest_10km = min(all_10k_values)
 print(fastest_10km)
 
+#TESTKOMMENTAR
+
 #count=0
 #for i in all_10k:
 #    if i == None:
