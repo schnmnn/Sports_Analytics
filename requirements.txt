@@ -1,0 +1,4 @@
+geopy==2.2.0
+pandas==1.4.3
+gpxpy==1.5.0
+numpy-ext==0.9.8
