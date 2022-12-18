@@ -4,8 +4,9 @@ import geopy.distance
 from numpy_ext import rolling_apply
 import matplotlib.pyplot as plt
 import datetime
+from math import floor
 
-gpx_path = ('data/3483926185.gpx')
+gpx_path = ('gpx_files/activities/7833777707.gpx')
 with open(gpx_path) as f:
     gpx = gpxpy.parse(f)
 

@@ -1,3 +1,7 @@
 *.gpx
 *.ipynb
 useful_links.txt
+*.gpx.gz
+*.csv
+*.fit.gz
+*.pdf
